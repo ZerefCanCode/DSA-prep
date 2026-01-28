@@ -1,2 +1,1 @@
-# DE8BatchClasses
-Bosscoder Class DE8 Batch- DSA Scripts
+DSA patterns and problems
